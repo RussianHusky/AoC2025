@@ -4,7 +4,7 @@ while (true)
     
 }
 
-int Rotate(int dial, string command)
+/*int Rotate(int dial, string command)
 {
     int
-}
+}*/
